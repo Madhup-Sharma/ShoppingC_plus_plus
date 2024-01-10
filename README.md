@@ -13,7 +13,7 @@ This C++ program implements a basic shopping system allowing users to add, modif
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/shopping-system.git
+    https://github.com/Madhup-Sharma/ShoppingC_plus_plus/tree/main
     ```
 
 2. **Compile and Run:**
